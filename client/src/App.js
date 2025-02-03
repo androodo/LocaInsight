@@ -15,7 +15,7 @@ const defaultCenter = {
 function App() {
   // Load Google Maps
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: "AIzaSyBHOUeco4b0u7hCvEb3evOR-Zadpn5OlFI" // Replace with your real key!
+    googleMapsApiKey: "INSERT_YOUR_GOOGLE_MAPS_API_KEY" // Replace with your real key!
   });
 
   // Component states
