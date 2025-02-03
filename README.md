@@ -1,7 +1,7 @@
 # LocaInsight
 
 ## Preview
-![LocaInsight Screenshot](Screenshot 2025-02-03 051301.png)
+![LocaInsight Screenshot](LocaInsightPreview.png)
 
 **LocaInsight** is a travel exploration app that merges **OpenAI GPT-3.5** with the **Google Maps JavaScript API** to provide personalized travel recommendations and itineraries.
 
