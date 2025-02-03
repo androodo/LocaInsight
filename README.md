@@ -1,6 +1,6 @@
 # LocaInsight
 
-![LocaInsight Screenshot]()
+![LocaInsight Screenshot](LocaInsightScreenshot.png)
 
 ## Preview
 
