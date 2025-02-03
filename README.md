@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/95f41b60-a8f9-49c2-beee-4d4b60faf8db)# LocaInsight
+
 ![LocaInsight Screenshot](LocaInsightPreview.png)
 
 ## Preview
