@@ -16,7 +16,7 @@
 ## Technologies
 - **Backend:** Node.js, Express, OpenAI API (GPT-3.5 Turbo)
 - **Frontend:** React, @react-google-maps/api, Axios
-- **API Features:** Response caching, request validation, health monitoring
+- **API Features:** Response caching, request validation
 
 ## Installation
 
